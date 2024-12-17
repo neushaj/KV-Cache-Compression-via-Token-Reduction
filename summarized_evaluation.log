@@ -1,0 +1,24 @@
+2024-12-06 22:52:15,614 - INFO - Summarization and ChatGLM2-6B-32k models loaded successfully on a single device.
+2024-12-06 22:52:17,293 - INFO - Dataset loaded successfully.
+2024-12-06 22:52:17,500 - INFO - Average Context Length: 4538.65 words
+2024-12-06 22:52:17,500 - INFO - Average Input Length: 4548.99 words
+2024-12-06 22:52:17,500 - INFO - Maximum Context Length: 10330.00 words
+2024-12-06 22:52:17,500 - INFO - Starting evaluation on the dataset.
+2024-12-06 22:53:46,423 - INFO - Original Length: 804 words, Compressed Length: 1984 words, Compression: 246.77%
+2024-12-06 22:53:48,390 - INFO - Item 1/150 processed - Compression: 246.77%, Latency: 1.9005 seconds
+2024-12-06 22:57:28,240 - INFO - Original Length: 6888 words, Compressed Length: 2090 words, Compression: 30.34%
+2024-12-06 22:57:29,746 - INFO - Item 2/150 processed - Compression: 30.34%, Latency: 1.3929 seconds
+2024-12-06 23:00:14,889 - INFO - Original Length: 4275 words, Compressed Length: 2209 words, Compression: 51.67%
+2024-12-06 23:00:23,675 - INFO - Item 3/150 processed - Compression: 51.67%, Latency: 8.7161 seconds
+2024-12-06 23:15:48,031 - INFO - Summarization and ChatGLM2-6B-32k models loaded successfully on a single device.
+2024-12-06 23:15:49,723 - INFO - Dataset loaded successfully.
+2024-12-06 23:15:49,929 - INFO - Average Context Length: 4538.65 words
+2024-12-06 23:15:49,929 - INFO - Average Input Length: 4548.99 words
+2024-12-06 23:15:49,929 - INFO - Maximum Context Length: 10330.00 words
+2024-12-06 23:15:49,929 - INFO - Starting evaluation on the dataset.
+2024-12-06 23:17:19,366 - INFO - Original Length: 804 words, Compressed Length: 1692 words, Compression: 210.45%
+2024-12-06 23:17:21,086 - INFO - Item 1/150 processed - Compression: 210.45%, Latency: 1.6676 seconds
+2024-12-06 23:21:01,417 - INFO - Original Length: 6888 words, Compressed Length: 2623 words, Compression: 38.08%
+2024-12-06 23:21:02,499 - INFO - Item 2/150 processed - Compression: 38.08%, Latency: 0.9912 seconds
+2024-12-06 23:23:47,746 - INFO - Original Length: 4275 words, Compressed Length: 2484 words, Compression: 58.11%
+2024-12-06 23:23:48,967 - INFO - Item 3/150 processed - Compression: 58.11%, Latency: 1.1615 seconds
